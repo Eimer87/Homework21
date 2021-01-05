@@ -15,7 +15,7 @@ class Books extends Component {
 
   //Sets the default search upon page load
   componentDidMount() {
-    this.searchBooks("Harry Potter");
+    this.searchBooks("Mona Lisa Overdrive");
   }
 
   //a function to run a search of the API based on customer input

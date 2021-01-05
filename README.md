@@ -2,7 +2,7 @@
 Created a new React-based Google Books Search app. This app uses the Gogle Books API to retrieve book information.
 
 ## Link
- - [Deployed Link](https://)
+ - [Deployed Link](https://hw21googlebooksearch.herokuapp.com/)
 
 ## Screen Shots and Demo
 
